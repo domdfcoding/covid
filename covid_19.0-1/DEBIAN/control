@@ -1,0 +1,12 @@
+Package: covid
+Version: 19.0-1
+Section: science
+Priority: optional
+Architecture: amd64
+Maintainer: Dominic Davis-Foster <dominic@davis-foster.co.uk>
+Description: coronavirus disease caused by SARS-CoV-2.
+  The covid family of diseases, attached to humanity via a spike protein
+  bus in the year 2019 as covid19, is a contagious respiratory and
+  neurological disease caused by the coronavirus SARS-CoV-2.
+  covid is spread human-to-human mainly through small droplets and
+  aerosols, especially in crowds, closed spaces, and close contact.
