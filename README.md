@@ -6,3 +6,10 @@ Ported from DragonFlyBSD; see https://gitweb.dragonflybsd.org/dragonfly.git/comm
 
 
 See also https://www.phoronix.com/scan.php?page=news_item&px=DragonFlyBSD-COVID
+
+## Building
+
+1. Install gcc, make and dpkg-deb
+2. Run `make deb`
+
+This will create a `covid_19.0-1.deb` in the current directory.
